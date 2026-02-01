@@ -61,7 +61,7 @@ n    valentineName: "Kennedy",
         backgroundEnd: "#d6292d",        // Gradient end (should complement backgroundStart)
         buttonBackground: "#ff6b6b",     // Button color (should stand out against the background)
         buttonHover: "#ff8787",          // Button hover color (slightly lighter than buttonBackground)
-        textColor: "#ff4757"             // Text color (make sure it's readable!)
+        textColor: "#f0120f"             // Text color (make sure it's readable!)
     },
 
     // Animation settings
